@@ -58,7 +58,7 @@ main:
     image: /img/galata-logo3.svg
   image3:
     alt: Coffee beans
-    image: /img/galata-logo.svg
+    image: /img/galata-logo2.png
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: >-
