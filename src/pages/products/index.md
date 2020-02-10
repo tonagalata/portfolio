@@ -12,7 +12,6 @@ description: >-
 intro:
   blurbs:
     - image: /img/coffee.png
-    - image: /img/galata7.png
       text: >
         We sell green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
@@ -61,6 +60,9 @@ main:
   image3:
     alt: Coffee beans
     image: /img/products-grid1.jpg
+  image4:
+    alt: Galata's Logo
+    image: /img/galata7.png
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: >-
